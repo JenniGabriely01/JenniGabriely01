@@ -1,16 +1,23 @@
-### Jennifer Gabriely
-
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=25&center=true&vCenter=true&width=1000&lines=Jennifer+Gabriely;Be+Welcome!+:%29" alt="Typing SVG">
+</a>
 
 - ❣️ Estudante de Desenvolvimento de sistemas 
 - 💻 FrontEnd | REACT | JAVA SCRIPT | HTML | CSS
 - 🎈 16 anos - 2007
 
-  
-  <img href="https:https://www.linkedin.com/in/jennifer-gabriely-lopes-dos-santos-a1a251295/" align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+<h3></h3>
+<div align="right">
+  <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-  
+
 <hr>
+
 
 
 <div align="center">  
