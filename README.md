@@ -6,6 +6,9 @@
 - 💻 FrontEnd | REACT | JAVA SCRIPT | HTML | CSS
 - 🎈 16 anos - 2007
 
+  
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCGp4r38nTuaQ49BTS8pJxA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <h3></h3>
 <div align="right">
   <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
