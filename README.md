@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=25&center=true&vCenter=true&width=1000&lines=Jennifer+Gabriely;Be+Welcome!+:%29" alt="Typing SVG">
 </a>
 
-- ❣️ Estudante de Desenvolvimento de sistemas 
-- 💻 FrontEnd | REACT | JAVA SCRIPT | HTML | CSS
+- ❣️ Técnica em Analise e desenvolvimento de sistemas - SENAI
+- 🚀 Graduanda em Desenvolvimento de Software Multiplataforma - FATEC
+- 💻 FrontEnd | React | Java Script | HTML | CSS | Python | MySQL | MongoDb | Node 
 - 🎈 17 anos - 2007
 
   
@@ -17,6 +18,8 @@
   <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 
