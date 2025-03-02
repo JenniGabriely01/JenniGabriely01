@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=25&center=true&vCenter=true&width=1000&lines=Jennifer+Gabriely;Be+Welcome!+:%29" alt="Typing SVG">
 </a>
 
-- ❣️ Técnica em Analise e desenvolvimento de sistemas - SENAI
+- ❣️ Técnica em Analise e Desenvolvimento de Sistemas - SENAI
 - 🚀 Graduanda em Desenvolvimento de Software Multiplataforma - FATEC
 - 💻 FrontEnd | React | Java Script | HTML | CSS | Python | MySQL | MongoDb | Node 
 - 🎈 17 anos - 2007
