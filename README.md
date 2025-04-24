@@ -4,7 +4,7 @@
 
 - ❣️ Técnica em Analise e Desenvolvimento de Sistemas - SENAI
 - 🚀 Graduanda em Desenvolvimento de Software Multiplataforma - FATEC
-- 💻 FrontEnd | React | Java Script | HTML | CSS | Python | MySQL | MongoDb | Node 
+- 💻 Software Developer | React | Java Script | HTML | CSS | Python | MySQL | MongoDb | Node 
 - 🎈 18 anos - 2007
 
   
