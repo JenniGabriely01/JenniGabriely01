@@ -32,3 +32,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniGabriely01&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
+</picture>
