@@ -13,7 +13,7 @@
   <ul>
     <li>💻 <strong>Técnica</strong> em Análise e Desenvolvimento de Sistemas - SENAI</li>
     <li>🎓 <strong>Graduanda</strong> em Desenvolvimento de Software Multiplataforma - FATEC</li>
-    <li>👩‍💻 <strong>Software Developer</strong></li>
+    <li>👩‍💻 <strong>Software Developer | Cloud Computing | Data Analytic</strong></li>
     <li>🎂 <strong>18 anos</strong> - 2007</li>
   </ul>
 </div>
