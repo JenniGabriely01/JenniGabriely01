@@ -11,6 +11,7 @@
 <!-- Informações com emojis alinhadas à esquerda -->
 <div style="text-align: left; padding: 20px 0;">
   <ul>
+     <li>🎓 <strong>Platform</strong> Engineer Intern at Itaú Unibanco</li>
     <li>🎓 <strong>Graduanda</strong> em Desenvolvimento de Software Multiplataforma - FATEC</li>
     <li>💻 <strong>Técnica</strong> em Análise e Desenvolvimento de Sistemas - SENAI</li>
     <li>👩‍💻 <strong>Software Developer | Cloud Computing | Data Analytic</strong></li>
